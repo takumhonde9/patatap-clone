@@ -1,4 +1,4 @@
-# patatap-clone
+# Patatap Clone
 A web app that imitates the patatap web app.
 
 ## About
