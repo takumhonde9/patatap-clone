@@ -13,4 +13,4 @@ This application allows users to make simple musical sounds by pressing on diffe
 
 ## Dependencies 
 * [howler.js](https://howlerjs.com/) - a dependency used to play .mp3 sounds on webpage
-* [paper.js](http://paperjs.org/) - a dependency used to create animation 
+* [paper.js](http://paperjs.org/) - a dependency used to create animations that appear on webpage 
