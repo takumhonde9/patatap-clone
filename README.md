@@ -1,8 +1,6 @@
 # patatap-clone
 A web app that imitates the patatap web app.
 
-<<<<<<< HEAD
-=======
 ## About
 This application allows users to make simple musical sounds by pressing on different keys on their keyboards. After pressing on a key on the keyboard a sound is produced and some animation appears on the screen for each sound that is produced
 
@@ -16,4 +14,4 @@ This application allows users to make simple musical sounds by pressing on diffe
 ## Dependencies 
 * [howler.js](https://howlerjs.com/) - a dependency used to play .mp3 sounds on webpage
 * [paper.js](http://paperjs.org/) - a dependency used to create animations that appear on webpage 
->>>>>>> 075bb6800923bbccfbcf5fb8d82eb7bc85fbf56b
+
