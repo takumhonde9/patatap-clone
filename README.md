@@ -12,5 +12,5 @@ This application allows users to make simple musical sounds by pressing on diffe
 1. Press on any alphabetical key on keyboard to produce sound 
 
 ## Dependencies 
-* [howler.js] (https://howlerjs.com/) - a dependency used to play .mp3 sounds on webpage
-* [paper.js] (http://paperjs.org/) - a dependency used to create animation 
+* [howler.js](https://howlerjs.com/) - a dependency used to play .mp3 sounds on webpage
+* [paper.js](http://paperjs.org/) - a dependency used to create animation 
